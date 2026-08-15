@@ -1,0 +1,2 @@
+# LegacyArchiver
+LegacyRecipeで蓄積したノウハウ・暗黙知を棚卸するためのデスクトップアプリ
